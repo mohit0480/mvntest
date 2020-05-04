@@ -73,6 +73,7 @@
 					<encoding>${project.build.sourceEncoding}</encoding>
 				</configuration>
 			</plugin>
+  		</plugins>
 		-->
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
@@ -83,7 +84,7 @@
 				</configuration>
 			</plugin>
 
-		</plugins>
+		
 	</build>
 
 </project>
